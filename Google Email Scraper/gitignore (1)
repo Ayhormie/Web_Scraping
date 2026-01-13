@@ -1,0 +1,5 @@
+#ignore virtual env
+project_env
+
+#ignore pycache
+__pycache__
